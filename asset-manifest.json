@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cat-fact-age-predict/static/css/main.abd64e84.css",
+    "main.js": "/cat-fact-age-predict/static/js/main.f0895012.js",
+    "index.html": "/cat-fact-age-predict/index.html",
+    "main.abd64e84.css.map": "/cat-fact-age-predict/static/css/main.abd64e84.css.map",
+    "main.f0895012.js.map": "/cat-fact-age-predict/static/js/main.f0895012.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.f0895012.js"
+  ]
+}
